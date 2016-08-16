@@ -1,0 +1,14 @@
+layout_spectrum: 0.6400017333216965
+typography_spectrum: 0.24657540768384933
+color:
+  brandStrength: 0.7749863895587623
+  lightness: 0.9326711574103683
+  saturation: 0.1264435751363635
+  rhythmicContrast: 0.8675033205654472
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: shonanphysio
